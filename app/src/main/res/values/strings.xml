@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AstroStrike</string>
+    <string name="game_title">AstroStrike</string>
+    <string name="score_label">Score: %1$d</string>
+    <string name="high_score_label">High: %1$d</string>
+    <string name="level_label">Level %1$d</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="restart_button">Play Again</string>
+    <string name="start_button">Launch Mission</string>
+</resources>
